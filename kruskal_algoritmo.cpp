@@ -29,7 +29,7 @@ void Union(int i, int j) {
   }
 }
 
-int kruskal() {
+int kruskal_algoritmo() {
   int source, destiny, cost, minimum_cost = 0;
 
   sort(edge_list.begin(), edge_list.end());
@@ -65,7 +65,7 @@ int main() {
     edge_list.push_back(make_tuple(cost, source, destiny));
   }
 
-  cout << kruskal() << endl;
+  cout << kruskal_algoritmo() << endl;
 
   return 0;
 }
