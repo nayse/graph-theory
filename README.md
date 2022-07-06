@@ -4,7 +4,7 @@ Executando.
 
 Para compilar utilize o comando:
 
-make kruskal
+make kruskal_algoritmo
 
 Execute o programa:
 
