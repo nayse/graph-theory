@@ -1,2 +1,2 @@
 _kruskal:
-	g++ kruskal.cpp -o kruskal && ./kruskal <input.txt
+	g++ kruskal_algoritmo.cpp -o kruskal_algoritmo && ./kruskal_algoritmo <entrada.txt
