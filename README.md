@@ -8,7 +8,7 @@ make kruskal
 
 Execute o programa:
 
-./kruskal < entrada.txt
+./kruskal_algoritmo < entrada.txt
 
 É necesssário que o arquivo de entrada contenha: 
 
