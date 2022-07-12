@@ -2,13 +2,21 @@
 
 Executando.
 
-Para compilar utilize o comando:
+Para compilar o algoritmo Kruskal utilize o comando:
 
 make kruskal_algoritmo
 
 Execute o programa:
 
 ./kruskal_algoritmo < entrada.txt
+
+Para compilar o Algoritmo BellmanFord:
+
+g++ BellmanFord.cpp -o main
+
+Utilize como paramento o arquivo entrada.txt
+
+
 
 É necesssário que o arquivo de entrada contenha: 
 
